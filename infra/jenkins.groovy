@@ -13,7 +13,7 @@ pipeline {
                 stage("QA-2"){
                     agent any
                     steps {
-                        echo "QA 2 PASSED"
+                        echo "QA 3 PASSED"
                     }
                 }
             }
